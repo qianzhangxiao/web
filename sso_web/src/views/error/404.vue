@@ -1,5 +1,5 @@
 <template>
-    <div>404，请确认链接是否正确</div>
+    <div>404,资源不存在</div>
 </template>
 
 <script>
