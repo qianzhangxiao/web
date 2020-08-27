@@ -1,5 +1,6 @@
 // vue.config.js
 module.exports = {
+	publicPath: './',  //解决打包静态资源无法访问
   // options...
   devServer:{
 	  port:8088,
